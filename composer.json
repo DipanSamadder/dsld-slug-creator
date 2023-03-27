@@ -1,7 +1,12 @@
 {
     "name": "dsld/larave-slug-creator",
     "description": "A simple generate SEO-friendly and human-readable URL slugs for your Laravel website with this dsld tools.",
-    "type": "composer-plugin",
+    "keywords": [
+        ":Dipan Samadder",
+        "laravel",
+        ":dsld-slug-creator"
+    ],
+    "homepage": "https://github.com/DipanSamadder/dsld-slug-creator.git",
     "license": "MIT",
     "autoload": {
         "psr-4": {
