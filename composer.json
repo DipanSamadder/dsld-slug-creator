@@ -10,13 +10,14 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "dsld\\LaravelSlugCreator\\": "src/"
+            "Dsld\\LaravelSlugCreator\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Dipan",
-            "email": "dipansamadder99@gmail.com"
+            "email": "dipansamadder99@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
